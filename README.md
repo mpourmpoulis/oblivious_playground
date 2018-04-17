@@ -1,5 +1,5 @@
 # oblivious_playground
-a repository to experiment with garbled circuits for the sake of fun
+a repository to experiment with Garbled circuits for the sake of fun
 
 
 TODO:
